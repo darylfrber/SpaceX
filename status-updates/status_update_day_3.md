@@ -1,0 +1,1 @@
+Vandaag hebben wij hard gewerkt, we zijn al bijna klaar dus we maken heel veel creatieve en innovatieve features in ons project. De database is bijna klaar en de meeste van onze pagina's zijn af.

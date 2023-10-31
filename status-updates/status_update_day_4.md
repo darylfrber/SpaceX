@@ -1,0 +1,1 @@
+Vandaag hebben we de puntjes op de i gezet en hebben we eindelijk een functionerende flight schedule. Morgen gaan we presenteren aan Elon Musk hemzelf (Joris) en weten we sowieso dat we gaan winnen.

@@ -1,0 +1,1 @@
+Wij hebben op deze dag gewerkt aan onze individuele brainstorms, daarnaast hadden we ook onze plan van aanpak bijna afgerond EN alvast een beetje aan de footer, header en het vangen van data uit ons hypothetisch database

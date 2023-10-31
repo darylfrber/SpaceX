@@ -1,0 +1,12 @@
+.achtergrond-plaatje{
+    background-image: url(images/ronnie_gif.gif);
+    background-size: cover;
+}
+.min-height-400 {
+    min-height: 500px;
+}
+
+h1{
+    color: #fff !important;
+    text-align: center;
+}
